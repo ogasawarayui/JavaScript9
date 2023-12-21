@@ -8,6 +8,7 @@ if (boolean) {
 };
 console.log(resultText);*/
 var resultText = boolean ? "Aの処理" : "Bの処理";
+console.log(resultText);
 /* Q2  代入された変数の中が5より大きい時にtrueの処理と、5より小さい時にfalseの処理を作ってください。*/
 var resultNum = 6 > 5 ? true : false;
 console.log(resultNum);
